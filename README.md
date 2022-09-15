@@ -1,5 +1,3 @@
-# Шаблон тестового задания
-
 ## Техническое задание
 
 Необходимо разработать калькулятор ипотечных предложений на основе [примера](https://www.sravni.ru/ipoteka/?mortgagePurpose=1&creditAmount=11849421&initialAmount=1500000&mortgageTerm=120).
